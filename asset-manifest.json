@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mini-profile-card/static/css/main.8f9e76bf.css",
+    "main.js": "/mini-profile-card/static/js/main.5480a7e8.js",
+    "static/js/787.0f8c18f6.chunk.js": "/mini-profile-card/static/js/787.0f8c18f6.chunk.js",
+    "static/media/cngzQWHr_400x400.jpg": "/mini-profile-card/static/media/cngzQWHr_400x400.83a8dc6087d169de7ab1.jpg",
+    "static/media/linkedin-svgrepo-com.svg": "/mini-profile-card/static/media/linkedin-svgrepo-com.a0937cfdc8bd06cad49533438cd67667.svg",
+    "static/media/instagram-167-svgrepo-com.svg": "/mini-profile-card/static/media/instagram-167-svgrepo-com.eaa957f02fe3257f3533c2d96533dc6b.svg",
+    "static/media/reddit-143-svgrepo-com.svg": "/mini-profile-card/static/media/reddit-143-svgrepo-com.44cecb2f911e78e43887175c0d425675.svg",
+    "static/media/twitter-svgrepo-com.svg": "/mini-profile-card/static/media/twitter-svgrepo-com.489d38fdb648545cd50e0679629b9348.svg",
+    "static/media/facebook-svgrepo-com.svg": "/mini-profile-card/static/media/facebook-svgrepo-com.56970ca92a1400befd4f1109fd110a3b.svg",
+    "index.html": "/mini-profile-card/index.html",
+    "static/media/mail-svgrepo-com.svg": "/mini-profile-card/static/media/mail-svgrepo-com.0e35522e27d2a90ec68d671f04576561.svg",
+    "main.8f9e76bf.css.map": "/mini-profile-card/static/css/main.8f9e76bf.css.map",
+    "main.5480a7e8.js.map": "/mini-profile-card/static/js/main.5480a7e8.js.map",
+    "787.0f8c18f6.chunk.js.map": "/mini-profile-card/static/js/787.0f8c18f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f9e76bf.css",
+    "static/js/main.5480a7e8.js"
+  ]
+}
